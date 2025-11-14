@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("This is edited test code\n");
+    printf("This is test code\n");
     return 0;
 }
